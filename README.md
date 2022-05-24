@@ -1,6 +1,6 @@
 ### Hi, my name is Gabriel and I'm ...
 
-- Studing on Trybe
+- Studing at Trybe
 - Learning Web Development
 - Contact me: gabrielmendesa@gmail.com
 
